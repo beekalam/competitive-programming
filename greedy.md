@@ -1,5 +1,6 @@
 # Greedy algorithms
 
+## intro
 A greedy algorithm constructs a solution to the problem by always making a
 choice that looks the `best at the moment`. A greedy algorithm never takes back
 its choices, but directly constructs the final solution. For this reason, greedy
